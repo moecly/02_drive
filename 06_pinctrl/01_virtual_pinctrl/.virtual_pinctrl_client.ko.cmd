@@ -1,0 +1,1 @@
+cmd_/linux/02_drive/06_pinctrl/01_virtual_pinctrl/virtual_pinctrl_client.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /linux/02_drive/06_pinctrl/01_virtual_pinctrl/virtual_pinctrl_client.ko /linux/02_drive/06_pinctrl/01_virtual_pinctrl/virtual_pinctrl_client.o /linux/02_drive/06_pinctrl/01_virtual_pinctrl/virtual_pinctrl_client.mod.o ;  true

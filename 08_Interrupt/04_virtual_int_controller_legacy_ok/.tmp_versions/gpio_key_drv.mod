@@ -1,0 +1,3 @@
+/linux/02_drive/08_Interrupt/04_virtual_int_controller_legacy_ok/gpio_key_drv.ko
+/linux/02_drive/08_Interrupt/04_virtual_int_controller_legacy_ok/gpio_key_drv.o
+

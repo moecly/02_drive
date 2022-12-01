@@ -1,0 +1,1 @@
+cmd_/linux/02_drive/04_i2c/04_ap3216c/ap3216c_client.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /linux/02_drive/04_i2c/04_ap3216c/ap3216c_client.ko /linux/02_drive/04_i2c/04_ap3216c/ap3216c_client.o /linux/02_drive/04_i2c/04_ap3216c/ap3216c_client.mod.o ;  true

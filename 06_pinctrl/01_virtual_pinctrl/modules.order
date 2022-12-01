@@ -1,0 +1,2 @@
+kernel//linux/02_drive/06_pinctrl/01_virtual_pinctrl/virtual_pinctrl_driver.ko
+kernel//linux/02_drive/06_pinctrl/01_virtual_pinctrl/virtual_pinctrl_client.ko

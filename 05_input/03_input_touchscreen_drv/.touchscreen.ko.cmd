@@ -1,0 +1,1 @@
+cmd_/linux/02_drive/05_input/03_input_touchscreen_drv/touchscreen.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /linux/02_drive/05_input/03_input_touchscreen_drv/touchscreen.ko /linux/02_drive/05_input/03_input_touchscreen_drv/touchscreen.o /linux/02_drive/05_input/03_input_touchscreen_drv/touchscreen.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_/linux/02_drive/04_i2c/04_ap3216c/ap3216c_drv.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /linux/02_drive/04_i2c/04_ap3216c/ap3216c_drv.ko /linux/02_drive/04_i2c/04_ap3216c/ap3216c_drv.o /linux/02_drive/04_i2c/04_ap3216c/ap3216c_drv.mod.o ;  true

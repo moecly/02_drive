@@ -1,0 +1,1 @@
+cmd_/linux/02_drive/8th_buttons_input/button.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /linux/02_drive/8th_buttons_input/button.ko /linux/02_drive/8th_buttons_input/button.o /linux/02_drive/8th_buttons_input/button.mod.o ;  true
